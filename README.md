@@ -12,8 +12,8 @@ Key achievements include:
     • Blockstream Workshops: Hosted first Liquid Network workshops in Zambia.
     • Bitcoin Mining Site Educational Tours: We have successfully organized 2 Bitcoin mining site visits for our community members to make learning more practical.
     • Trezor Academy Workshops: Hosted two Trezor academy workshops.
-    • Freedom Money Workshop: Collaborated with Anita Posch to introduce 50 human rights activists from across Africa to Bitcoin in Lusaka, Zambia.
-    • Journalist Bitcoin Workshop: Organized a dedicated workshop for Zambian journalists, led by Anita Posch, focused on Bitcoin fundamental.
+    • Freedom Money Workshop: Collaborated with Anita to introduce 50 human rights activists from across Africa to Bitcoin in Lusaka, Zambia.
+    • Journalist Bitcoin Workshop: Organized a dedicated workshop for Zambian journalists, led by Anita, focused on Bitcoin fundamental.
     • Media and Outreach: Facilitated public lectures and media appearances to highlight Bitcoin’s societal impact.
     • Youth Engagement: Launching the BitTeens program to educate young people on Bitcoin and financial literacy.
     • Community Connections: Supporting Bitcoin Victoria Falls by connecting educators from the Bitcoin Zambia community.
@@ -27,8 +27,8 @@ Key achievements include:
 ### Bitcoin Mining Site Visit  
 <img src="https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/btc-mining-2-720x480.jpeg?raw=true" alt="Bitcoin Mining Site Visit" width="600"/>
 
-### Anita Posch at the University of Zambia  
-<img src="https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/anita-1-720x480.jpg?raw=true" alt="Anita Posch at the University of Zambia" width="600"/>
+### Anita at the University of Zambia  
+<img src="https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/anita-1-720x480.jpg?raw=true" alt="Anita at the University of Zambia" width="600"/>
 
 ### Women Only Bitcoin Meetup  
 <img src="https://bitcoinzambia.org/wp-content/uploads/2025/04/cropped-women-workshop-6.jpg" alt="Women Only Bitcoin Meetup" width="600"/>
